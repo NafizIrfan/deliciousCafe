@@ -17,6 +17,10 @@
 	.navbar-expand-lg .navbar-nav .dropdown-menu{
 		box-shadow: none;
 	}
+	.brand{
+	  height: 70px;
+	  width: auto;
+	}
 	.carousel-control-prev{
 		left: -60px;
 	}
@@ -54,6 +58,10 @@
 	}
 	.navbar-expand-lg .navbar-nav .dropdown-menu{
 		box-shadow: none;
+	}
+	.brand{
+	  height: 70px;
+	  width: auto;
 	}
 	.cover-slides h1{
 		font-size: 50px;
