@@ -191,6 +191,10 @@ button:focus{
 .navbar-light .navbar-toggler:hover{
 	background: #457A7A;
 }
+.brand{
+  height: 100px;
+  width: auto;
+}
 /*------------------------------------------------------------------
     Slider
 -------------------------------------------------------------------*/
